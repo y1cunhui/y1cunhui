@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![y1cunhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=y1cunhui&count_private=true&show_icons=true&theme=tokyonight)
 
+<!--START_SECTION:activity-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y1cunhui&count_private=true&show_icons=true&theme=tokyonight)
