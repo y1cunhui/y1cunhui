@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 ![y1cunhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=y1cunhui&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#3](https://github.com/Jeiwan/uniswapv3-book/issues/3) in [Jeiwan/uniswapv3-book](https://github.com/Jeiwan/uniswapv3-book)
+2. 🗣 Commented on [#3](https://github.com/Jeiwan/uniswapv3-book/issues/3) in [Jeiwan/uniswapv3-book](https://github.com/Jeiwan/uniswapv3-book)
+3. ❗️ Reopened issue [#3](https://github.com/Jeiwan/uniswapv3-book/issues/3) in [Jeiwan/uniswapv3-book](https://github.com/Jeiwan/uniswapv3-book)
+4. ❗️ Closed issue [#3](https://github.com/Jeiwan/uniswapv3-book/issues/3) in [Jeiwan/uniswapv3-book](https://github.com/Jeiwan/uniswapv3-book)
+5. 🗣 Commented on [#3](https://github.com/Jeiwan/uniswapv3-book/issues/3) in [Jeiwan/uniswapv3-book](https://github.com/Jeiwan/uniswapv3-book)
+<!--END_SECTION:activity-->
 
