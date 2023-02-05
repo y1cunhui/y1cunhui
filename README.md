@@ -3,7 +3,7 @@
 I'm y1cunhui
 
 
-- 🔭 I’m currently working on web3
+- 🔭 I’m currently working on web3 security
 - 🌱 I’m currently a CS major graduate student at Peking University
 
 - 📫 How to reach me: y1cunhui.yang [at] gmail [dot] com
