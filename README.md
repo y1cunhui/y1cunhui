@@ -4,7 +4,7 @@ y1cunhui.eth
 
 
 - 🔭 Live on chain
-- 🌱 interested in web3 security / MEV
+- 🌱 interested in web3 security 
 
 - 📫 Twitter: @yicunhui2
 
